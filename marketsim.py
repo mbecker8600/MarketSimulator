@@ -1,4 +1,4 @@
-"""MC2-P1: Market simulator."""
+"""Market simulator."""
 
 import pandas as pd
 import numpy as np

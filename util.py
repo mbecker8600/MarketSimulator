@@ -1,4 +1,4 @@
-"""MLT: Utility code."""
+"""Utility code."""
 
 import os
 import pandas as pd
